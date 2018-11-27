@@ -1,0 +1,14 @@
+{
+  "RestResponse" : {
+    "messages" : [ "State found matching code [CO]." ],
+    "result" : {
+      "id" : 6,
+      "country" : "USA",
+      "name" : "Colorado",
+      "abbr" : "CO",
+      "area" : "103642SKM",
+      "largest_city" : "Denver",
+      "capital" : "Denver"
+    }
+  }
+}
